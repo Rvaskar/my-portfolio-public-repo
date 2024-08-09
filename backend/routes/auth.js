@@ -6,5 +6,4 @@ const router = express.Router();
 router.post("/createAdmin", signup);
 router.post("/signin", login);
 
-
 export default router;

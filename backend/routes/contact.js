@@ -1,7 +1,9 @@
 import express from "express";
-import { getAllContact, addContactMessage, deleteMessage } from "../controllers/contact.js";
-
-
+import {
+  getAllContact,
+  addContactMessage,
+  deleteMessage,
+} from "../controllers/contact.js";
 
 const router = express.Router();
 
