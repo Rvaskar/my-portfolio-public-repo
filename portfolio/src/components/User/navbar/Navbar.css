@@ -1,0 +1,6 @@
+.navbar-ul>li{
+    padding:  20px 7px;
+}
+.navbar-ul > li > .active{
+    color: #FFDB70;
+}
